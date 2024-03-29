@@ -1,0 +1,27 @@
+main{
+    text-align: center;
+    width: 20cm;
+    height: 25cm;
+    padding:10px ;
+    margin: auto;
+    background-color: bisque;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: #0056b3;
+}
+button:active {
+    background-color: #003e80;
+}
