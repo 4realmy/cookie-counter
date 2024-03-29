@@ -1,10 +1,14 @@
 main{
     text-align: center;
     width: 20cm;
-    height: 25cm;
+    height: 22cm;
     padding:10px ;
     margin: auto;
-    background-color: bisque;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('images/cookieWallpaper2.jpg');
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 button {
